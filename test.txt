@@ -34,3 +34,20 @@ Searches/
 SendTo@
 Templates@
 Videos/
+Applications/
+CLionProjects/
+Desktop/
+Documents/
+Downloads/
+GitLearning/
+Library/
+Movies/
+Music/
+Nustore Files/
+Pictures/
+Public/
+PycharmProjects/
+iCloud Drive (Archive)/
+iCloud Drive (Archive) - 1/
+vim@
+ycm_build/
